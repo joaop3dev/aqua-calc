@@ -9,6 +9,13 @@
     "build": "tsc",
     "start": "node ./dist/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaop3dev/aqua-calc"
+  },
+  "bugs": {
+    "url": "https://github.com/joaop3dev/aqua-calc/issues"
+  },
   "keywords": ["aquarium", "calculate", "calculator", "aqua-calc", "aquarium calculator"],
   "author": "João Paulo",
   "license": "ISC",
