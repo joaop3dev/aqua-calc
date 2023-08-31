@@ -1,6 +1,6 @@
 {
   "name": "aqua-calc",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "AquaCalc is a comprehensive library for aquarium enthusiasts, providing tools to calculate tank volume, substrate amount, filtration capacity, lighting duration, recommended food amount, and glass thickness. Built with TypeScript, it offers accurate and efficient calculations for optimal aquarium maintenance and care.",
   "main": "dist/index.js",
   "scripts": {
